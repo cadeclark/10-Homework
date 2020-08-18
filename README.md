@@ -2,8 +2,8 @@
 
 Here is an example of the Node Running:
 
-![Node Functionality](./node_functionality.gif)
+![Node Functionality](https://www.youtube.com/watch?v=O5UkpBqZe8s)
 
 Here is an example of the HTML that is Generated from the Terminal:
 
-![Generated HTML from Terminal](./html_generated.png)
+![Generated HTML from Terminal](./GeneratedHTMLpage.png)
